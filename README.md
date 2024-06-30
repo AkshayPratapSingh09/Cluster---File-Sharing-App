@@ -52,9 +52,9 @@
 
 
 # Screenshots : 
-<img src="./Screenshots/Screenshots(433).png" height="400" width="800">
-<img src="./Screenshots/Screenshots(434).png" height="400" width="800">
-<img src="./Screenshots/Screenshots(435).png" height="400" width="800">
-<img src="./Screenshots/Screenshots(436).png" height="400" width="800">
-<img src="./Screenshots/Screenshots(437).png" height="400" width="800">
+<img src="Screenshots/Screenshots(433).png" height="400" width="800">
+<img src="Screenshots/Screenshots(434).png" height="400" width="800">
+<img src="Screenshots/Screenshots(435).png" height="400" width="800">
+<img src="Screenshots/Screenshots(436).png" height="400" width="800">
+<img src="Screenshots/Screenshots(437).png" height="400" width="800">
 
